@@ -779,7 +779,7 @@
 .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{background-color:#fff;background-color:rgba(255,255,255,.75);filter:"alpha(opacity=75)";-ms-filter:"alpha(opacity=75)"}
 .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar{background-color:#fff;background-color:rgba(255,255,255,.85);filter:"alpha(opacity=85)";-ms-filter:"alpha(opacity=85)"}
 .mCSB_scrollTools .mCSB_dragger.mCSB_dragger_onDrag .mCSB_dragger_bar,.mCSB_scrollTools .mCSB_dragger:active .mCSB_dragger_bar{background-color:#fff;background-color:rgba(255,255,255,.9);filter:"alpha(opacity=90)";-ms-filter:"alpha(opacity=90)"}
-.mCSB_scrollTools .mCSB_buttonDown,.mCSB_scrollTools .mCSB_buttonLeft,.mCSB_scrollTools .mCSB_buttonRight,.mCSB_scrollTools .mCSB_buttonUp{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/app/libs/mCustomScrollbar/_img/mCSB_buttons.html);background-repeat:no-repeat;opacity:.4;filter:"alpha(opacity=40)";-ms-filter:"alpha(opacity=40)"}
+.mCSB_scrollTools .mCSB_buttonDown,.mCSB_scrollTools .mCSB_buttonLeft,.mCSB_scrollTools .mCSB_buttonRight,.mCSB_scrollTools .mCSB_buttonUp{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/app/libs/mCustomScrollbar/~img/mCSB_buttons.png);background-repeat:no-repeat;opacity:.4;filter:"alpha(opacity=40)";-ms-filter:"alpha(opacity=40)"}
 .mCSB_scrollTools .mCSB_buttonUp{background-position:0 0}
 .mCSB_scrollTools .mCSB_buttonDown{background-position:0 -20px}
 .mCSB_scrollTools .mCSB_buttonLeft{background-position:0 -40px}
@@ -1651,7 +1651,7 @@
 .no-js .owl-carousel{display:block}
 .owl-carousel .owl-item .owl-lazy{opacity:0;-webkit-transition:opacity .4s ease;-o-transition:opacity .4s ease;transition:opacity .4s ease}
 .owl-carousel .owl-video-wrapper{position:relative;height:100%;background:#000}
-.owl-carousel .owl-video-play-icon{position:absolute;height:80px;width:80px;left:50%;top:50%;margin-left:-40px;margin-top:-40px;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/css/owl.video.play.html) no-repeat;cursor:pointer;z-index:1;-webkit-backface-visibility:hidden;-webkit-transition:scale .1s ease;-o-transition:scale .1s ease;transition:scale .1s ease}
+.owl-carousel .owl-video-play-icon{position:absolute;height:80px;width:80px;left:50%;top:50%;margin-left:-40px;margin-top:-40px;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/css/owl.video.play.png) no-repeat;cursor:pointer;z-index:1;-webkit-backface-visibility:hidden;-webkit-transition:scale .1s ease;-o-transition:scale .1s ease;transition:scale .1s ease}
 .owl-carousel .owl-video-play-icon:hover{-webkit-transition:scale(1.3,1.3);-o-transition:scale(1.3,1.3);transition:scale(1.3,1.3)}
 .owl-carousel .owl-video-playing .owl-video-play-icon,.owl-carousel .owl-video-playing .owl-video-tn{display:none}
 .owl-carousel .owl-video-tn{opacity:0;height:100%;background-position:center center;background-repeat:no-repeat;-webkit-background-size:contain;background-size:contain;-webkit-transition:opacity .4s ease;-o-transition:opacity .4s ease;transition:opacity .4s ease}
@@ -1732,7 +1732,7 @@ nav[canvas] .mnu_btn{width:100%;height:100%;margin-bottom:3px;display:-webkit-bo
 .countries_and_prices .table td{padding:8px 0 8px 15px}
 .countries_and_prices .table tbody td{text-align:left}
 .countries_and_prices .table tbody td:last-of-type{width:29%;vertical-align:inherit;text-align:right;padding:0 5px 0 0}
-.top-section{min-height:600px;text-align:left;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/header_bg.png) center top no-repeat #ebf9f1;position:relative}
+.top-section{min-height:600px;text-align:left;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/header_bg.png) center top no-repeat #ebf9f1;position:relative}
 .some_of_the_reviews{padding-top:140px;padding-bottom:150px;background-color:#FBFBFB}
 .some_of_the_reviews .title_h2{margin-bottom:53px}
 .some_of_the_reviews .some_of_the_reviews_items{width:100%;margin-bottom:30px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap}
@@ -1880,13 +1880,13 @@ nav[canvas] .mnu_btn{width:100%;height:100%;margin-bottom:3px;display:-webkit-bo
 .index-affiliate-program__advantages-steps{width:670px;margin-right:30px}
 .index-affiliate-program__advantages-reg{width:470px;padding-top:25px}
 .index-affiliate-program__advantages-steps-item{width:170px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;position:relative}
-.index-affiliate-program__advantages-steps-item:after{content:"";display:block;position:absolute;width:105px;height:23px;right:-75px;top:10px;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/index-affiliate-program__advantages-steps-item-decor.png) center top no-repeat}
+.index-affiliate-program__advantages-steps-item:after{content:"";display:block;position:absolute;width:105px;height:23px;right:-75px;top:10px;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/index-affiliate-program__advantages-steps-item-decor.png) center top no-repeat}
 .index-affiliate-program__advantages-steps-item:last-of-type:after{display:none}
 .index-affiliate-program__advantages-steps-item-img-wrap{margin-bottom:10px}
 .index-affiliate-program__advantages-steps-item-img{width:50px}
 .index-affiliate-program__advantages-steps-item-txt{text-align:center;line-height:1.2}
 .index-affiliate-program__advantages-reg-link{width:270px}
-.helping-business{padding-top:140px;padding-bottom:130px;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/helping-business-right-bg.png) top 60px right no-repeat,url(https://proxy-seller.io/local/templates/dvsproxyseller/img/helping-business-left-bg.png) top 60px left no-repeat #ebf9f1}
+.helping-business{padding-top:140px;padding-bottom:130px;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/helping-business-right-bg.png) top 60px right no-repeat,url(https://proxy-seller.io/local/templates/dvsproxyseller/img/helping-business-left-bg.png) top 60px left no-repeat #ebf9f1}
 .helping-business .title_h2{margin-bottom:70px}
 .helping-business__advertising-top{margin-bottom:20px}
 .helping-business__advertising-top-item{padding:60px 30px;margin-bottom:20px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;background:#FFF;-webkit-box-shadow:0 12px 30px rgba(0,0,0,.03);box-shadow:0 12px 30px rgba(0,0,0,.03);-webkit-border-radius:8px;border-radius:8px}
@@ -1897,7 +1897,7 @@ nav[canvas] .mnu_btn{width:100%;height:100%;margin-bottom:3px;display:-webkit-bo
 .helping-business__advantages-item{width:121px;margin-bottom:20px;margin-left:10px;margin-right:10px;padding-top:28px;padding-bottom:30px;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;background:#FFF;-webkit-box-shadow:0 12px 30px rgba(0,0,0,.03);box-shadow:0 12px 30px rgba(0,0,0,.03);-webkit-border-radius:8px;border-radius:8px}
 .helping-business__advantages-item p{text-align:center;font-weight:600;font-size:14px;line-height:17px}
 .helping-business__advantages-item-img{margin-bottom:22px;text-align:center}
-.residential-proxies-advantages{padding-top:150px;padding-bottom:130px;background:-webkit-gradient(linear,left top,left bottom,from(rgba(255,255,255,.1)),to(rgba(255,255,255,0))),url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/residential-proxies-advantages-bg.png) top 112px right no-repeat #EBF9F1;background:-webkit-linear-gradient(top,rgba(255,255,255,.1) 0,rgba(255,255,255,0) 100%),url(https://proxy-seller.io/local/templates/dvsproxyseller/img/residential-proxies-advantages-bg.png) top 112px right no-repeat #EBF9F1;background:-o-linear-gradient(top,rgba(255,255,255,.1) 0,rgba(255,255,255,0) 100%),url(https://proxy-seller.io/local/templates/dvsproxyseller/img/residential-proxies-advantages-bg.png) top 112px right no-repeat #EBF9F1;background:linear-gradient(180deg,rgba(255,255,255,.1) 0,rgba(255,255,255,0) 100%),url(https://proxy-seller.io/local/templates/dvsproxyseller/img/residential-proxies-advantages-bg.png) top 112px right no-repeat #EBF9F1}
+.residential-proxies-advantages{padding-top:150px;padding-bottom:130px;background:-webkit-gradient(linear,left top,left bottom,from(rgba(255,255,255,.1)),to(rgba(255,255,255,0))),url(https://proxy-seller.io/local/templates/dvsproxyseller/img/residential-proxies-advantages-bg.png) top 112px right no-repeat #EBF9F1;background:-webkit-linear-gradient(top,rgba(255,255,255,.1) 0,rgba(255,255,255,0) 100%),url(https://proxy-seller.io/local/templates/dvsproxyseller/img/residential-proxies-advantages-bg.png) top 112px right no-repeat #EBF9F1;background:-o-linear-gradient(top,rgba(255,255,255,.1) 0,rgba(255,255,255,0) 100%),url(https://proxy-seller.io/local/templates/dvsproxyseller/img/residential-proxies-advantages-bg.png) top 112px right no-repeat #EBF9F1;background:linear-gradient(180deg,rgba(255,255,255,.1) 0,rgba(255,255,255,0) 100%),url(https://proxy-seller.io/local/templates/dvsproxyseller/img/residential-proxies-advantages-bg.png) top 112px right no-repeat #EBF9F1}
 .residential-proxies-advantages .row{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap}
 .residential-proxies-advantages__btn-wrap button{min-width:220px}
 .residential-proxies-top-section.private .residential-proxies-top-section__btn-wrap button,.residential-proxies-top-section.thanks-for-your-payment .residential-proxies-top-section__btn-wrap button{min-width:184px}
@@ -1990,7 +1990,7 @@ nav[canvas] .mnu_btn{width:100%;height:100%;margin-bottom:3px;display:-webkit-bo
 .more-than-35-countries__item{width:168px;margin-bottom:60px;margin-right:15px;margin-left:15px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center}
 .more-than-35-countries__item-img{margin-right:19px}
 .more-than-35-countries p:not(.title_h2){margin-bottom:33px;font-size:16px;line-height:1.6}
-.special-offer{padding-top:130px;padding-bottom:155px;background:-webkit-gradient(linear,left top,left bottom,from(rgba(255,255,255,.15)),to(rgba(255,255,255,0))),url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-r-bg.png) top 45px right no-repeat,url(https://proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-l-bg.png) top 45px left no-repeat #39BF73;background:-webkit-linear-gradient(top,rgba(255,255,255,.15) 0,rgba(255,255,255,0) 100%),url(https://proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-r-bg.png) top 45px right no-repeat,url(https://proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-l-bg.png) top 45px left no-repeat #39BF73;background:-o-linear-gradient(top,rgba(255,255,255,.15) 0,rgba(255,255,255,0) 100%),url(https://proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-r-bg.png) top 45px right no-repeat,url(https://proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-l-bg.png) top 45px left no-repeat #39BF73;background:linear-gradient(180deg,rgba(255,255,255,.15) 0,rgba(255,255,255,0) 100%),url(https://proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-r-bg.png) top 45px right no-repeat,url(https://proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-l-bg.png) top 45px left no-repeat #39BF73;color:#FFF}
+.special-offer{padding-top:130px;padding-bottom:155px;background:-webkit-gradient(linear,left top,left bottom,from(rgba(255,255,255,.15)),to(rgba(255,255,255,0))),url(https://proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-r-bg.png) top 45px right no-repeat,url(https://proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-l-bg.png) top 45px left no-repeat #39BF73;background:-webkit-linear-gradient(top,rgba(255,255,255,.15) 0,rgba(255,255,255,0) 100%),url(https://proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-r-bg.png) top 45px right no-repeat,url(https://proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-l-bg.png) top 45px left no-repeat #39BF73;background:-o-linear-gradient(top,rgba(255,255,255,.15) 0,rgba(255,255,255,0) 100%),url(https://proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-r-bg.png) top 45px right no-repeat,url(https://proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-l-bg.png) top 45px left no-repeat #39BF73;background:linear-gradient(180deg,rgba(255,255,255,.15) 0,rgba(255,255,255,0) 100%),url(https://proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-r-bg.png) top 45px right no-repeat,url(https://proxy-seller.io/local/templates/dvsproxyseller/img/special-offer-l-bg.png) top 45px left no-repeat #39BF73;color:#FFF}
 .special-offer__btn-wrap{text-align:center}
 .special-offer__btn-wrap button{width:200px}
 .special-offer .title_h2{margin-bottom:36px;color:#FFF!important}
@@ -2111,7 +2111,7 @@ nav[canvas] .mnu_btn{width:100%;height:100%;margin-bottom:3px;display:-webkit-bo
 .share-page__social-item{display:flex;margin-right:20px;margin-bottom:15px}
 .share-page__social-item:last-of-type{margin-right:0}
 .share-page__social-item-counter{min-width:30px;height:30px;margin-right:10px;padding-left:3px;padding-right:3px;position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border:1px solid #cdcdcd;font-size:14px}
-.share-page__social-item-counter:after{content:"";display:block;position:absolute;width:6px;height:10px;right:-6px;top:11px;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/share-page__social-item-counter-triangle.jpg) center top no-repeat}
+.share-page__social-item-counter:after{content:"";display:block;position:absolute;width:6px;height:10px;right:-6px;top:11px;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/share-page__social-item-counter-triangle.jpg) center top no-repeat}
 .proxy_ipv6 .swiper-nav-wrap,.share-page__social-item-circle a{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;-webkit-box-align:center}
 .share-page__social-item-circle{width:30px;height:30px;-webkit-border-radius:50%;border-radius:50%;background-color:#35be70;border:1px solid transparent;-webkit-transition:border,background-color,.5s;-o-transition:border,background-color,.5s;transition:border,background-color,.5s}
 .share-page__social-item-circle:hover a i{color:#3a4763}
@@ -2157,7 +2157,7 @@ nav[canvas] .mnu_btn{width:100%;height:100%;margin-bottom:3px;display:-webkit-bo
 .proxy_ipv6 .proxy_ipv6_items ul.dynamic-list + ul{margin-top:0;/*height: 160px;*/}
 .proxy_ipv6 .proxy_ipv6_items ul:not(.drop){padding:0 0 0 7px;margin:10px 0 7px}
 .proxy_ipv6 .proxy_ipv6_items ul:not(.drop) li{text-align:left;list-style:none;font-size:14px;line-height:1.45}
-.proxy_ipv6 .proxy_ipv6_items ul:not(.drop) li i{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);background-position:-124px -92px;width:18px;height:10px}
+.proxy_ipv6 .proxy_ipv6_items ul:not(.drop) li i{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);background-position:-124px -92px;width:18px;height:10px}
 .proxy_ipv6 .proxy_ipv6_items p.proxy_pieces{padding-top:18px;font-size:18px;line-height:1.1}
 .proxy_ipv6 .proxy_ipv6_items p.proxy_price{padding-bottom:10px;font-size:14px;line-height:1.2;font-family:Lato-Bold,Arial,sans-serif;color:#35be70}
 .proxy_ipv6 .proxy_ipv6_items p.proxy_price:first-of-type{margin-bottom:3px;color:#3a4763;padding-bottom:0}
@@ -2185,7 +2185,7 @@ padding-top:10px;padding-bottom:50px;-webkit-border-radius:10px;border-radius:20
 .proxy_ipv6 .proxy_ipv6_item.a_discount .proxy_ipv6_item_inner{height:92%}
 .proxy_ipv6 .proxy_ipv6_item.a_discount .proxy_ipv6_item_decor{margin-bottom:20px}
 .proxy_ipv6 .proxy_ipv6_item.a_discount p.proxy_pieces{padding-top:27px}
-.proxy_ipv6 .proxy_ipv6_item_decor{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);background-position:-72px -132px;width:25px;height:5px;margin-bottom:10px;margin-left:15px;-webkit-transition:-webkit-transform .4s;-o-transition:transform .4s;transition:transform .4s;transition:transform .4s,-webkit-transform .4s}
+.proxy_ipv6 .proxy_ipv6_item_decor{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);background-position:-72px -132px;width:25px;height:5px;margin-bottom:10px;margin-left:15px;-webkit-transition:-webkit-transform .4s;-o-transition:transform .4s;transition:transform .4s;transition:transform .4s,-webkit-transform .4s}
 .proxy_ipv6 .proxy_ipv6_item_a_discount{width:calc(100% - 10px);height:27px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;position:absolute;top:30px;top:-12px;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);-webkit-border-radius:7px;border-radius:7px;border:1px solid #35be70;background-color:#fff;color:#35be70;font-family:Lato-Bold,Arial,sans-serif;font-size:14px}
 .frequent-questions-and-articles__accordion,.proxy_ipv6 .proxy_ipv6_item_inner{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;-webkit-box-orient:vertical;-webkit-box-direction:normal}
 .proxy_ipv6 .proxy_ipv6_item_inner{width:94.1%;min-height:282px;height:95%;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin:auto;background-color:#fff;-webkit-border-radius:10px;border-radius:10px;position:relative}
@@ -2389,11 +2389,11 @@ padding-top:10px;padding-bottom:50px;-webkit-border-radius:10px;border-radius:20
 .сonditions.PA-FAQ-page .FAQ-tabs-wrap-inner-all{width:470px}
 .сonditions.PA-FAQ-page .FAQ-tab-wrap-all .FAQ-tab-wrapper{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin:0 -15px}
 .affiliate_program_registration_inner,.affiliate_program_registration_item{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;-webkit-box-orient:vertical;-webkit-box-direction:normal}
-.affiliate_program_registration_sec{padding-top:60px;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/affiliate_program_registration_bg.png) center top no-repeat #fff}
+.affiliate_program_registration_sec{padding-top:60px;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/affiliate_program_registration_bg.png) center top no-repeat #fff}
 .affiliate_program_registration_sec h1.inner{margin-bottom:33px;font-size:32px}
 .affiliate_program_registration_sec.dedicated .dedicated_title{margin-bottom:48px}
 .affiliate_program_registration_sec .subtitle{font-size:24px}
-.affiliate_program_registration{padding:35px 30px;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/affiliate_program_registration_inner_bg.png) center -15px no-repeat #F9FDFB}
+.affiliate_program_registration{padding:35px 30px;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/affiliate_program_registration_inner_bg.png) center -15px no-repeat #F9FDFB}
 .affiliate_program_registration_inner{padding:55px 15px 60px;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;background:#fff;text-align:center}
 .affiliate_program_registration_inner .title{margin-bottom:44px;font-size:24px;font-family:Lato-Bold,Arial,sans-serif;line-height:18px}
 .affiliate_program_registration_inner .text{max-width:400px;margin-bottom:35px;font-size:20px;font-family:Lato-Bold,Arial,sans-serif;line-height:27px}
@@ -2517,12 +2517,12 @@ padding-top:10px;padding-bottom:50px;-webkit-border-radius:10px;border-radius:20
 .for-your-customers__item-img{margin-right:40px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;z-index:1}
 .for-your-customers__item-txt{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}
 .for-your-customers__item-txt p{font-size:18px;line-height:27px}
-.personal-IPv4-and-IPv6-proxies{padding:110px 0;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/personal-IPv4-and-IPv6-proxies-bg.png) center top no-repeat #F9FDFB}
+.personal-IPv4-and-IPv6-proxies{padding:110px 0;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/personal-IPv4-and-IPv6-proxies-bg.png) center top no-repeat #F9FDFB}
 .personal-IPv4-and-IPv6-proxies h2{margin-bottom:60px;font-size:32px;line-height:38px}
 .personal-IPv4-and-IPv6-proxies__item{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap}
 .personal-IPv4-and-IPv6-proxies__item-title{margin-right:20px;font-size:19px;line-height:1.6;font-family:Lato-Bold,Arial,sans-serif}
 .personal-IPv4-and-IPv6-proxies .select{width:370px;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;margin-bottom:0}
-.who-is-interested-in-the-partner-program{padding-top:110px;padding-bottom:20px;-webkit-box-flex:1;-webkit-flex:1 0 auto;-ms-flex:1 0 auto;flex:1 0 auto;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/who-is-interested-in-the-partner-program-bg.png) top center no-repeat #fff}
+.who-is-interested-in-the-partner-program{padding-top:110px;padding-bottom:20px;-webkit-box-flex:1;-webkit-flex:1 0 auto;-ms-flex:1 0 auto;flex:1 0 auto;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/who-is-interested-in-the-partner-program-bg.png) top center no-repeat #fff}
 .who-is-interested-in-the-partner-program h2{margin-bottom:70px}
 .who-is-interested-in-the-partner-program__items{padding:40px 40px 10px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;background:#FFF;-webkit-box-shadow:0 4px 20px rgba(53,190,112,.1);box-shadow:0 4px 20px rgba(53,190,112,.1);-webkit-border-radius:10px;border-radius:10px}
 .who-is-interested-in-the-partner-program__item{width:50%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin-bottom:30px;position:relative}
@@ -2537,7 +2537,7 @@ padding-top:10px;padding-bottom:50px;-webkit-border-radius:10px;border-radius:20
 .earn-on-our-affiliate-program__item-txt{width:100%;padding-left:15px;padding-right:15px}
 .earn-on-our-affiliate-program__item-txt p{font-size:20px;line-height:27px;font-family:Lato-Regular,Arial,sans-serif}
 .affiliate-program-conditions h3,.affiliate_program .affiliate_program_registration_txt_left span,.affiliate_program .affiliate_program_txt p.title,.сontacts.promotional-code-page h2 span{font-family:Lato-Bold,Arial,sans-serif}
-.get-a-percentage-of-your-first-purchases{padding-top:120px;padding-bottom:120px;-webkit-box-flex:1;-webkit-flex:1 0 auto;-ms-flex:1 0 auto;flex:1 0 auto;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/get-a-percentage-of-your-first-purchases-bg.png) top center no-repeat #F9FDFB}
+.get-a-percentage-of-your-first-purchases{padding-top:120px;padding-bottom:120px;-webkit-box-flex:1;-webkit-flex:1 0 auto;-ms-flex:1 0 auto;flex:1 0 auto;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/get-a-percentage-of-your-first-purchases-bg.png) top center no-repeat #F9FDFB}
 .get-a-percentage-of-your-first-purchases h2{margin-bottom:60px;font-size:28px}
 .get-a-percentage-of-your-first-purchases a{width:310px;height:55px;line-height:55px;display:block;margin:auto;font-size:20px}
 .statistics-questions-offer{-webkit-box-flex:1;-webkit-flex:1 0 auto;-ms-flex:1 0 auto;flex:1 0 auto;padding-top:50px;padding-bottom:50px;background-color:#fff}
@@ -2557,7 +2557,7 @@ padding-top:10px;padding-bottom:50px;-webkit-border-radius:10px;border-radius:20
 .reviews_from_other_sites .reviews_from_other_sites_item p{margin-bottom:5px}
 .reviews_from_other_sites .center-block{float:none;clear:both}
 .reviews_from_other_sites .center-block button{min-width:100%}
-.affiliate-program-conditions{padding-top:90px;padding-bottom:110px;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/affiliate-program-conditions-bg.png) top center no-repeat #fff;-webkit-box-flex:1;-webkit-flex:1 0 auto;-ms-flex:1 0 auto;flex:1 0 auto}
+.affiliate-program-conditions{padding-top:90px;padding-bottom:110px;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/affiliate-program-conditions-bg.png) top center no-repeat #fff;-webkit-box-flex:1;-webkit-flex:1 0 auto;-ms-flex:1 0 auto;flex:1 0 auto}
 .affiliate-program-conditions h2{margin-bottom:60px}
 .affiliate-program-conditions h3{margin-bottom:62px;margin-top:40px;font-size:24px;line-height:18px}
 .affiliate-program-conditions__items{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap}
@@ -2568,7 +2568,7 @@ padding-top:10px;padding-bottom:50px;-webkit-border-radius:10px;border-radius:20
 .affiliate-program-conditions__item p{font-size:20px;line-height:27px}
 .affiliate-program-conditions__wrap{padding:25px 40px 40px;position:relative;-webkit-box-shadow:0 4px 20px rgba(53,190,112,.1);box-shadow:0 4px 20px rgba(53,190,112,.1);-webkit-border-radius:10px;border-radius:10px}
 .сontacts{-webkit-box-flex:1;-webkit-flex:1 0 auto;-ms-flex:1 0 auto;flex:1 0 auto;background-color:#fff;padding-top:100px}
-.сontacts.promotional-code-page{padding-top:290px;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/promotional-code-page-top-img.png) center 50px no-repeat #fff}
+.сontacts.promotional-code-page{padding-top:290px;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/promotional-code-page-top-img.png) center 50px no-repeat #fff}
 .сontacts.promotional-code-page h2{margin-bottom:10px;font-size:32px}
 .сontacts.promotional-code-page h2 span{font-size:52px;color:#35be70}
 .сontacts.promotional-code-page .promotional-code-page__title-p{font-size:18px;margin-bottom:35px}
@@ -2623,9 +2623,9 @@ padding-top:10px;padding-bottom:50px;-webkit-border-radius:10px;border-radius:20
 .affiliate_program .affiliate_program_items{margin-bottom:65px}
 .affiliate_program .affiliate_program_item{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;text-align:center}
 .affiliate_program .affiliate_program_img{height:85px;margin-bottom:28px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center}
-.affiliate_program .affiliate_program_img .one{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);background-position:0 0;width:70px;height:70px}
-.affiliate_program .affiliate_program_img .two{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);background-position:0 -72px;width:70px;height:70px}
-.affiliate_program .affiliate_program_img .tree{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);background-position:-72px 0;width:70px;height:70px}
+.affiliate_program .affiliate_program_img .one{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);background-position:0 0;width:70px;height:70px}
+.affiliate_program .affiliate_program_img .two{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);background-position:0 -72px;width:70px;height:70px}
+.affiliate_program .affiliate_program_img .tree{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);background-position:-72px 0;width:70px;height:70px}
 .affiliate_program .affiliate_program_txt{width:267px;float:left}
 .affiliate_program .affiliate_program_txt p{font-size:20px;line-height:27px}
 .affiliate_program .affiliate_program_txt p.title{font-size:16px;margin-bottom:5px}
@@ -3114,7 +3114,7 @@ padding-top:10px;padding-bottom:50px;-webkit-border-radius:10px;border-radius:20
 .pa-partner-profile__wallets-item-inner input{width:370px;margin-right:30px;height:40px;line-height:40px;background-color:#fff;border:1px solid #cdcdcd;-webkit-border-radius:5px;border-radius:5px;padding-left:10px;-webkit-transition:border .5s;-o-transition:border .5s;transition:border .5s}
 .pa-partner-profile__wallets-item-inner input:active,.pa-partner-profile__wallets-item-inner input:focus,.pa-partner-profile__wallets-item-inner input:hover{border:1px solid #35be70;outline:0}
 .pa-partner-profile__wallets-item-inner .main_btn{min-width:70px;height:38px;line-height:38px;font-size:40px}
-.push-notification-body{width:500px;min-height:500px;position:inherit;padding:0;margin:0;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/header_bg.png) center top no-repeat #fff}
+.push-notification-body{width:500px;min-height:500px;position:inherit;padding:0;margin:0;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/header_bg.png) center top no-repeat #fff}
 .push-notification-body.push-notification-body{width:100%}
 .android .arrow-allow,.arrow-allow,.mac .arrow-allow,.preview-push-wrapper,.yandex .arrow-allow{display:none}
 @media (min-width:420px) and (min-height:470px){.preview-push-wrapper{display:block}
@@ -3450,7 +3450,7 @@ to{margin-left:20px}
 .PA-statistics__upload-list-title{width:170px;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;margin-right:30px;font-size:18px}
 .PA-balance-btn{margin-bottom:50px}
 .PA-balance-btn button{float:none}
-.private-mobile-proxies{padding-bottom:100px;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/private-mobile-proxies-bg.png) center top no-repeat #ebf9f2;position:relative}
+.private-mobile-proxies{padding-bottom:100px;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/private-mobile-proxies-bg.png) center top no-repeat #ebf9f2;position:relative}
 .private-mobile-proxies__items{display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}
 .private-mobile-proxies__item{width:245px;margin-bottom:30px;margin-right:110px;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;text-align:center}
 .private-mobile-proxies__item:last-of-type{margin-right:0}
@@ -3478,7 +3478,7 @@ to{margin-left:20px}
 .mobile-proxies-tabs__inner-block .tabs-items-operator-items .tabs-items-operator-item{width:200px;margin-bottom:30px;padding-left:15px;padding-right:15px}
 .mobile-proxies-tabs__inner-block .tabs-items-operator-items ul:not(.drop){padding:0 0 0 7px;margin:10px 0 7px}
 .mobile-proxies-tabs__inner-block .tabs-items-operator-items ul:not(.drop) li{text-align:left;list-style:none;font-size:12px;line-height:1.45}
-.mobile-proxies-tabs__inner-block .tabs-items-operator-items ul:not(.drop) li i{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);background-position:-124px -92px;width:18px;height:10px}
+.mobile-proxies-tabs__inner-block .tabs-items-operator-items ul:not(.drop) li i{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);background-position:-124px -92px;width:18px;height:10px}
 .mobile-proxies-tabs__inner-block .tabs-items-operator-items p.proxy_pieces{padding-top:18px;font-size:18px;line-height:1.1}
 .mobile-proxies-tabs__inner-block .tabs-items-operator-items p.proxy_pieces i{width:24px;height:16px;background-repeat:no-repeat!important}
 .mobile-proxies-tabs__inner-block .tabs-items-operator-items p.proxy_price{padding-bottom:10px;font-size:14px;line-height:1.2;color:#35be70}
@@ -3487,7 +3487,7 @@ to{margin-left:20px}
 .mobile-proxies-tabs__inner-block .tabs-items-operator-btn button{min-width:120px;height:32px;line-height:32px;margin-bottom:16px}
 .mobile-proxies-tabs__inner-block .margin_b{margin-bottom:30px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}
 .mobile-proxies-tabs__inner-block .proxy_ipv6_item{min-height:355px;width:100%;padding-top:10px;padding-bottom:5px;-webkit-border-radius:10px;border-radius:10px;background-color:#ebf9f1}
-.mobile-proxies-tabs__inner-block .proxy_ipv6_item_decor{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);background-position:-72px -132px;width:25px;height:5px;margin-bottom:10px;margin-left:15px}
+.mobile-proxies-tabs__inner-block .proxy_ipv6_item_decor{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);background-position:-72px -132px;width:25px;height:5px;margin-bottom:10px;margin-left:15px}
 .mobile-proxies-tabs__inner-block .proxy_ipv6_item_inner{width:94.1%;min-height:322px;height:95%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin:auto;background-color:#fff;-webkit-border-radius:10px;border-radius:10px}
 .mobile-proxies-tabs__inner-block .proxy_ipv6_item_inner ul li{list-style:none}
 .mobile-proxies-tabs__inner-block .proxy_ipv6_item_inner .select{margin:0 5px 5px}
@@ -3497,7 +3497,7 @@ to{margin-left:20px}
 .mobile-proxies-tabs__inner-block .proxy_ipv6_item_inner .select .drop{top:33px}
 .mobile-proxies-tabs__inner-block .proxy_ipv6_item_inner .select .drop li{padding:7px 15px 7px 20px;font-size:14px}
 .mobile-proxies-tabs__bot-txt{padding-left:15px;padding-right:15px}
-.proxy-for-any-purpose{padding-top:30px;padding-bottom:40px;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/proxy-for-any-purpose-bg.png) center top no-repeat #ebf9f2}
+.proxy-for-any-purpose{padding-top:30px;padding-bottom:40px;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/proxy-for-any-purpose-bg.png) center top no-repeat #ebf9f2}
 .proxy-for-any-purpose__title{text-align:center}
 .proxy-for-any-purpose__items{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;padding-left:215px}
 .proxy-for-any-purpose__items.second{padding-left:115px}
@@ -3817,7 +3817,7 @@ nav[canvas].headerLevel2{display:block}
 .header_title{margin:50px 0 50px 15px}
 .header_nav_wrap{float:none;margin:10px auto 30px}
 .header_modal{margin-top:40px}
-.header{background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/header_bg.png) left top no-repeat #ebf9f1}
+.header{background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/header_bg.png) left top no-repeat #ebf9f1}
 .header.ipv6_proxy .header_nav_wrap{margin:0 !important}
 .header__personal-area{display:none !important}
 nav[canvas]{display:block}
@@ -4021,7 +4021,7 @@ p.title_h2.big{font-size:32px;line-height:35px}
 .residential-proxies-top-section.private .residential-proxies-top-section__btn-wrap{margin-bottom:40px}
 .countries_and_prices .main-tabs-with-prices .mobile-proxies-tabs .mobile-proxies-tabs__inner-block .tabs-items-wrap-inner{-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}
 .residential-proxies-rates__tab-links{-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}
-.header{background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/header_bg.png) left top no-repeat #ebf9f1}
+.header{background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/header_bg.png) left top no-repeat #ebf9f1}
 .header.ipv6_proxy .header_nav_wrap{margin:0}
 .header.ipv6_proxy .header_logo{margin:10px 0 0}
 .personal_account_ipv4 .extend_proxy_wrap .extend_proxy_wrap_inner_item{margin-right:0}
@@ -4740,12 +4740,12 @@ div.bx-auth-serv-icons a:hover:not(:last-child){
 }
 .bx-auth-serv-icons .facebook,
 .profile-linked-accounts__item-icon .bx-ss-icon.facebook{
-  background: url('../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/facebook-circle.png');
+  background: url('https://proxy-seller.io/local/templates/dvsproxyseller/img/facebook-circle.png');
 }
 /* .profile-linked-accounts__item-icon .soc-serv-link{display: none;} */
 .bx-auth-serv-icons .google,
 .profile-linked-accounts__item-icon .bx-ss-icon.google{
-  background: url('../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/goocle-circle.png');
+  background: url('https://proxy-seller.io/local/templates/dvsproxyseller/img/goocle-circle.png');
 }
 .user__connect:not(:last-child) {
   margin-right: 20px;
@@ -7737,12 +7737,12 @@ body .ui-tooltip{border-width:2px}
 .ui-state-disabled,.ui-widget-content .ui-state-disabled,.ui-widget-header .ui-state-disabled{opacity:.35;filter:Alpha(Opacity=35);background-image:none}
 .ui-state-disabled .ui-icon{filter:Alpha(Opacity=35)}
 .ui-icon{width:16px;height:16px}
-.ui-icon,.ui-widget-content .ui-icon,.ui-widget-header .ui-icon{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/app/libs/jquery/images/ui-icons_444444_256x240.html)}
-.ui-button:focus .ui-icon,.ui-button:hover .ui-icon,.ui-state-focus .ui-icon,.ui-state-hover .ui-icon{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/app/libs/jquery/images/ui-icons_555555_256x240.html)}
-.ui-button:active .ui-icon,.ui-state-active .ui-icon{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/app/libs/jquery/images/ui-icons_ffffff_256x240.html)}
-.ui-button .ui-state-highlight.ui-icon,.ui-state-highlight .ui-icon{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/app/libs/jquery/images/ui-icons_777620_256x240.html)}
-.ui-state-error .ui-icon,.ui-state-error-text .ui-icon{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/app/libs/jquery/images/ui-icons_cc0000_256x240.html)}
-.ui-button .ui-icon{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/app/libs/jquery/images/ui-icons_777777_256x240.html)}
+.ui-icon,.ui-widget-content .ui-icon,.ui-widget-header .ui-icon{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/app/libs/jquery/images/ui-icons_444444_256x240.png)}
+.ui-button:focus .ui-icon,.ui-button:hover .ui-icon,.ui-state-focus .ui-icon,.ui-state-hover .ui-icon{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/app/libs/jquery/images/ui-icons_555555_256x240.png)}
+.ui-button:active .ui-icon,.ui-state-active .ui-icon{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/app/libs/jquery/images/ui-icons_ffffff_256x240.png)}
+.ui-button .ui-state-highlight.ui-icon,.ui-state-highlight .ui-icon{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/app/libs/jquery/images/ui-icons_777620_256x240.png)}
+.ui-state-error .ui-icon,.ui-state-error-text .ui-icon{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/app/libs/jquery/images/ui-icons_cc0000_256x240.png)}
+.ui-button .ui-icon{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/app/libs/jquery/images/ui-icons_777777_256x240.png)}
 .ui-icon-blank{background-position:16px 16px}
 .ui-icon-caret-1-n{background-position:0 0}
 .ui-icon-caret-1-ne{background-position:-16px 0}
@@ -7952,7 +7952,7 @@ body.flex,html.flex{height:100%}
 body.slidebars,html.slidebars{width:100%;overflow:hidden!important}
 body{font-size:16px;min-width:320px;position:relative;line-height:1.6;font-family:Lato-Regular,Arial,sans-serif;overflow-x:hidden;-webkit-tap-highlight-color:transparent;scrollbar-base-color:#35be70;scrollbar-arrow-color:#35be70}
 body::-webkit-scrollbar{width:12px}
-i.fr,i.germany,i.kz,i.ru,i.ua,i.usa{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);width:24px}
+i.fr,i.germany,i.kz,i.ru,i.ua,i.usa{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/sprite.png);width:24px}
 body::-webkit-scrollbar-thumb{background-color:#35be70}
 body::-webkit-scrollbar-thumb:hover{background-color:#2a9658}
 body::-webkit-scrollbar-track-piece{background-color:transparent}
@@ -7975,8 +7975,8 @@ i.usa{background-position:-98px -92px}
 i.kz{background-position:-98px -112px}
 .ui-tooltip.arrow_left:after,.ui-tooltip.arrow_right:after{position:absolute;bottom:-11px;display:block;width:12px;height:12px;content:""}
 .ui-tooltip{min-width:10px}
-.ui-tooltip.arrow_left:after{background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/tooltip_arrow.png) center top no-repeat}
-.ui-tooltip.arrow_right:after{right:10px;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/tooltip_arrow_right.png) center top no-repeat}
+.ui-tooltip.arrow_left:after{background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/tooltip_arrow.png) center top no-repeat}
+.ui-tooltip.arrow_right:after{right:10px;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/tooltip_arrow_right.png) center top no-repeat}
 .ui-tooltip.ui-widget{font-size:14px;font-family:Lato-Regular,Arial,sans-serif;background-color:#3a4763;color:#fff;line-height:1.2}
 .ui-tooltip.ui-widget-shadow{-webkit-box-shadow:none;box-shadow:none;-webkit-border-radius:5px;border-radius:5px}
 .ui-datepicker{width:330px;padding:8px}
@@ -7987,7 +7987,7 @@ i.kz{background-position:-98px -112px}
 .popup.get-test .dm-modal .mr,.popup.pop_order_form .inner_form_item:nth-of-type(odd){margin-right:30px}
 .ui-datepicker .select.ui-datepicker-month{border:#ebf9f1;-webkit-border-radius:10px;border-radius:10px}
 .ui-datepicker .ui-widget-header{background:#fff;color:#35be70}
-.ui-datepicker .ui-widget-header .ui-icon{background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/ui-icons_444444_256x240.png)}
+.ui-datepicker .ui-widget-header .ui-icon{background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/ui-icons_444444_256x240.png)}
 .ui-datepicker .ui-state-default,.ui-datepicker .ui-widget-content .ui-state-default{text-align:center;border:1px solid transparent;background:0 0}
 .ui-datepicker .ui-state-active,.ui-datepicker .ui-widget-content .ui-state-active{border:1px solid transparent;background:#ebf9f1;color:#35be70;text-align:center}
 .ui-datepicker .ui-state-highlight,.ui-datepicker .ui-widget-content .ui-state-highlight{color:#35be70;text-align:center;font-weight:700}
@@ -8119,7 +8119,7 @@ i.kz{background-position:-98px -112px}
 .popup.pop_order_form .price .price-item img{width:31px;height:20px;margin-right:5px}
 .popup.pop_order_form .bottom-text-info{font-size:14px;margin-top:10px}
 .popup.unsuccessful-payment .dm-modal{width:630px;text-align:left;padding:0;border:none;-webkit-border-radius:5px;border-radius:5px}
-.popup.unsuccessful-payment .unsuccessful-payment__top-level{color:#fff;-webkit-border-radius:5px 5px 0 0;border-radius:5px 5px 0 0;padding:15px 30px;background:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/unsuccessful-payment-bg.png) center top no-repeat #c53535;-webkit-background-size:cover;background-size:cover}
+.popup.unsuccessful-payment .unsuccessful-payment__top-level{color:#fff;-webkit-border-radius:5px 5px 0 0;border-radius:5px 5px 0 0;padding:15px 30px;background:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/unsuccessful-payment-bg.png) center top no-repeat #c53535;-webkit-background-size:cover;background-size:cover}
 .popup.unsuccessful-payment .unsuccessful-payment__title{margin-bottom:25px;font-size:28px}
 .popup.unsuccessful-payment .close i{color:#fff}
 .popup.unsuccessful-payment .unsuccessful-payment__bot-level{padding:20px 0 0 30px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap}
@@ -8235,8 +8235,8 @@ i.kz{background-position:-98px -112px}
 /* .modal_input_error.input_error_email{width:215px}
 .modal_input_error.input_error_phone{width:235px} */
 .modal_input_error.form_error{display:block}
-.modal_error_chest_img{width:9px;height:9px;position:absolute;background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/modal_error_chest_img.png);top: 12px;left:10px;}
-.modal_error_triangle{width:9px;height:8px;position:absolute;background-image:url(../../../../../../../proxy-seller.io/local/templates/dvsproxyseller/img/modal_error_triangle.png);bottom:-8px;left:18px;transform: rotate(180deg);}
+.modal_error_chest_img{width:9px;height:9px;position:absolute;background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/modal_error_chest_img.png);top: 12px;left:10px;}
+.modal_error_triangle{width:9px;height:8px;position:absolute;background-image:url(https://proxy-seller.io/local/templates/dvsproxyseller/img/modal_error_triangle.png);bottom:-8px;left:18px;transform: rotate(180deg);}
 .dm-modal .select .drop{max-height:270px}
 .dm-modal .inner_form .inner_form_item>div>label,.dm-modal .inner_form>div>label{display:none}
 .dm-modal .enter_promo_wrap{min-height:55px;position:relative}
@@ -8718,42 +8718,3 @@ label{display:inline-block;max-width:100%;font-weight:700}
 /* /local/templates/dvsproxyseller/css/header.min.css?1669117287115635 */
 /* /local/templates/dvsproxyseller/components/bitrix/catalog.section/modal-order/style.css?1654597228210 */
 /* /local/templates/dvsproxyseller/template_styles.css?1654597228273 */
-
-.sell-code{
-  margin: 0 auto;
-  border: #000 solid 1px;
-  border-radius: 10px;
-  width:calc(50%);
-  text-overflow: ellipsis;
-  white-space:nowrap;
-  overflow:hidden;
-  position: relative;
-  padding: 5px 10px;
-}
-.sell-code::before{
-  content: url(copy.png);
-  margin-right: 10px;
-  float: left;
-  display:block;
-  height:20px;
-  width:20px;
-  position: relative;
-  top: 2px;
-  z-index: 999999;
-}
-.copyed{
-  position: relative;
-  left: 150px;
-  top: -4px;
-  width: fit-content;
-  background-color: #3d3d3d;
-  color: white;
-  padding: 0 10px;
-  border-radius: 10px;
-  text-align: center;
-}
-
-.logo_img{
-  height: 70px;
-  width: 70px;
-}
