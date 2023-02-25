@@ -8699,6 +8699,24 @@ label{display:inline-block;max-width:100%;font-weight:700}
 .FAQ-accordion-wrap > li.active > .FAQ-accordion-drop {
     display: block;
 }
+
+.sell-code{
+  margin: 0 auto;
+  border: #000 solid 3px;
+  border-radius: 5px;
+  width:calc(30%);
+  text-overflow: ellipsis;
+  white-space:nowrap;
+  overflow:hidden;
+  padding: 3px 7px;
+}
+.sell-code::before{
+  content: url(.\copy.png);
+  height:20px;
+  width:20px;
+  float: left;
+  display:block;
+}
 /* End */
 /* /local/templates/dvsproxyseller/css/fonts.min.css?16576920781130 */
 /* /local/templates/dvsproxyseller/css/main.min.css?1668064588539003 */
