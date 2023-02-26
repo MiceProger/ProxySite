@@ -6,7 +6,7 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="UTF-8" />
-    <title>Proxy Life</title>
+    <title>SunLizzard</title>
     <!-- Bootstrap v3.3.4 Grid Styles -->
     <style>
         html {
@@ -157,7 +157,6 @@
 
         button,
         html input[type=button],
-        input[type=reset],
         input[type=submit] {
             -webkit-appearance: button;
             cursor: pointer
@@ -1631,7 +1630,8 @@
     <!-- Load CSS, CSS Localstorage & WebFonts Main Function -->
     <meta name="robots" content="index, follow">
     <meta name="keywords" content="прокси">
-    <meta name="description" content="Компания Proxy Life предлагает возможность купить прокси для ваших целей. Приватные прокси не имеют ограничений по трафику и поддерживает канал скорости 1 Гбит / с, подключение по протоколам Socks5 и HTTP(s), а также возможность аутентификации по лог">
+    <meta name="description" content="Команда SunLizzard продает персональные прокси и прокси-сервера.
+Покупка индивидуального IP-адреса в нашей компании выгодна по целому ряду причин, среди которых особенно стоит выделить следующие:">
     <script async src="../www.googletagmanager.com/gtm2fe1.js?id=GTM-NR4FPRX"></script>
     <script type="text/javascript" data-skip-moving="true">
         (function(w, d, n) {
@@ -1748,7 +1748,7 @@
                         </div>
                         <div class="header__social-items">
 
-                            <div id="bx_3218110189_1642" class="header__social-item"><a href="https://t.me/proxylife_support" target="_blank"><i><i class="fa fa-paper-plane"></i></i></a></div>
+                            <div id="bx_3218110189_1642" class="header__social-item"><a href="https://t.me/sunlizzardsupport" target="_blank"><i><i class="fa fa-paper-plane"></i></i></a></div>
                         </div>
                     </div>
                     <div class="header_nav_wrap">
@@ -2044,7 +2044,7 @@
                                     <li data-value="15">Прокси IPv6</li>
                                     <li data-value="15">Мобильные прокси</li>
                                 </ul>
-                                <input type="hidden" name="section" value>
+                                <input type="hidden" name="section" value class="selectedItem">
                             </div>
                         </div>
                         <div class="header_select-item bound-pair-select header_select-country">
@@ -2253,7 +2253,7 @@
                                         Румыния
                                     </li>
                                 </ul>
-                                <input type="hidden" name="element">
+                                <input type="hidden" name="element" class="selectedItem">
                             </div>
                         </div>
                         <div class="header_select-item bound-pair-select header_select-months">
@@ -2290,7 +2290,7 @@
                                     <li data-value="9m" data-section="15">Ben</li>
                                     <li data-value="12m" data-section="15">Simpel</li>
                                 </ul>
-                                <input type="hidden" name="days">
+                                <input type="hidden" name="days" class="selectedItem">
                             </div>
                         </div>
    
@@ -2310,7 +2310,13 @@
                             </div>
                         </div>
                         <div class="col-md-3 col-lg-2 header_bottom_item"> 
-                           <a href="poland-proxy/shop.html" class="main_btn dvs-show-modal-order">Купить прокси</a></div> 
+                           <button class="main_btn dvs-show-modal-order"
+                           onclick="
+                           var selectedItems = document.getElementsByClassName('selectedItem');
+                           if((selectedItems[0].value=='')||(selectedItems[1].value=='')||(selectedItems[2].value=='')) {return;}
+                           else {window.location.href = './poland-proxy/shop.html';}
+                           "
+                           >Купить прокси</button></div> 
                         <div class="col-md-4 col-lg-3 header_bottom_item dvs_hide dvs_diff">
                             
                                 <p>Возьмите еще <span>X</span> IP, и это будет дешевле на <b>XXX X</b></p>
@@ -2878,7 +2884,7 @@
                             <li>Причём связаться с нами можно в любое время суток, достаточно отправить запрос на телеграмм тег: @SunLizzardSupport
                             </li>
                         </ul>
-                        <h2>Proxy Life гарантирует:</h2>
+                        <h2>SunLizzard гарантирует:</h2>
                         <ul>
                             <li>Стабильное высокоскоростное соединение, до 1 Gb/s;</li>
                             <li>Поддержка протоколов HTTP(s) и Socks5;</li>
@@ -2927,7 +2933,7 @@
                                         <li id="bx_1454625752_1450">
                                             <div class="contact_i">
                                                 <i class="fa fa-paper-plane"></i>
-                                                <a href="https://t.me/proxylife_support" target="_blank">
+                                                <a href="https://t.me/sunlizzardsupport" target="_blank">
                                                     Telegram </a>
                                             </div>
                                         </li>
@@ -2935,7 +2941,7 @@
                                             <div class="contact_i">
                                                 <i class="fa fa-envelope"></i>
                                                 <a>
-                                                    <span class="">ProxyLife@gmail.com</span> </a>
+                                                    <span class="">SunLizzard@gmail.com</span> </a>
                                             </div>
                                         </li>
                                     </ul>

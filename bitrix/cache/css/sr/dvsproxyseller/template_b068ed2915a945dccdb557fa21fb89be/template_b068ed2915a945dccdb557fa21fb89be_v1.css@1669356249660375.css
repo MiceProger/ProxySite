@@ -8757,3 +8757,11 @@ label{display:inline-block;max-width:100%;font-weight:700}
   height: 70px;
   width: 70px;
 }
+@media screen and (max-width:376px) {
+  
+.qr-code{
+  height: 200px;
+  width: 160px;
+}
+
+}
